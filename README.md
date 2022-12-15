@@ -10,6 +10,12 @@
   sdcbdshvbdhvbdshvbdshvbdskhjvbshidvbsdjkhbvsdjhv
   dsncbdshjvbdshvnbsdhvbskvhbsdvnbsnvkbs
 </p>
+  <h1> Ordered list </h1>
+  <ol type="i">
+    <li> Google's servers </li>
+    <li> adhdhg </li>
+    <li> GSSS </li>
+  </ol>
   </body>
   </html>
   
