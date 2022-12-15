@@ -1,5 +1,15 @@
 # Tech_Writing
-My first writing in GitHub
-<p>
-Github is an open source
+<html>
+<head>
+<title> My writings </title>
+</head>
+<body>
+<h1> I love my writings </h1>
+<p> skjcbdigdjvbdsbcdsjvgwudvbdsjbcjssbvdhwbv
+  sdcbdshvbdhvbdshvbdshvbdskhjvbshidvbsdjkhbvsdjhv
+  dsncbdshjvbdshvnbsdhvbskvhbsdvnbsnvkbs
 </p>
+  </body>
+  </html>
+  
+    
