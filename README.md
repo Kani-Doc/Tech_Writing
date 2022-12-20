@@ -17,6 +17,9 @@
     <li> GSSS </li>
   </ol>
   </body>
+  
+  ./nz-saas --update-secrets sysdig --cluster <cluster> --env <env> --cloud-provider <platform> --ibmapi <ibmcloud_apikey>
+
 
   
     
